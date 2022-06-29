@@ -26,3 +26,6 @@ Rodar os testes:
 > g++ testes.cpp calculos.cpp
 > 
 > ./a.out
+
+
+**Author: Arthur de Brito Bonifácio**
